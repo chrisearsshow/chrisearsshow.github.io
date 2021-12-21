@@ -1,0 +1,107 @@
+<!DOCTYPE HTML>
+<!--
+	Phantom by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Generic - Phantom by HTML5 UP</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="inner">
+
+							<!-- Logo -->
+								<a href="index.html" class="logo">
+									<span class="symbol"><img src="images/logo.svg" alt="" /></span><span class="title">The Chris Ears Show</span>
+								</a>
+
+							<!-- Nav -->
+								<nav>
+									<ul>
+										<li><a href="#menu">Menu</a></li>
+									</ul>
+								</nav>
+
+						</div>
+					</header>
+
+				<!-- Menu -->
+					<nav id="menu">
+						<h2>Menu</h2>
+						<ul>
+							<li><a href="index.html">Home</a></li>
+							<li><a href="generic.html">Ipsum veroeros</a></li>
+							<li><a href="generic.html">Tempus etiam</a></li>
+							<li><a href="generic.html">Consequat dolor</a></li>
+							<li><a href="elements.html">Elements</a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+						<div class="inner">
+							<h1>#92 Schema Therapy</h1>
+							<span class="image main"><img src="images/92SchemaTherapy.png" alt="" /></span>
+							<p>In this episode, I’ll be briefly covering the book Schema Therapy by Jeffrey Young, Janet Klosko, and Marjorie Weishaar. It’s meant for therapists so I only read the first chapter and even that was pretty dense. It was a bit like reading WebMD and thinking that I have all the mental diseases.
+
+A schema is a pattern of behavior or thought. Schema therapy is meant for tougher mental health issues that other therapies don’t work on. The book’s theory is that some schemas come from unmet core emotional needs as a child. Those needs are 
+secure attachments to others, autonomy, freedom to express valid needs and emotions, spontaneity and play, and realistic limits and self-control. This means that raising a healthy child is impossible unless you have six trained therapists and SEAL team six. It also means that everyone is broken.
+
+The amygdala stores the emotional memories, and the hippocampus and neocortex store the cognitive memories. The challenge with the amygdala is that it’s unconscious, faster than the other parts of the brain, and permanently stores the memories of fear and trauma. That explains why some schemas are so hard to change.
+
+An example of a schema is defectiveness and shame, which is based on the core belief that there’s something wrong with you. To deal with this schema, there are several maladaptive coping responses. You might select critical and
+rejecting friends or put yourself down. You might avoid expressing true thoughts and feelings, or let others get close. Or you might criticize and reject others while seeming to be perfect. I’ve done all those things which make me think I have that schema. But then I read the next schema and think I have that too. And the next one. And the next one. And maybe I should be living in a mental hospital for the rest of my life. 
+
+Seriously though, this book has made me examine a pattern of behavior. Normally I think of myself as a loner or introvert, but my lack of friends and social life is a bit disturbing. My neighbors would definitely not be surprised if I turned out to be a serial killer.
+
+The other thing that the book points out is that schema healing takes a long time and it never fully heals. Eventually with healing, the schema gets activated less frequently or stay activated for shorter periods of time.
+
+With the defectiveness schema, healing looks like a few things. The idea is to increase my sense of self-esteem and to believe that I’m worthy of love
+and respect. Eventually, I’ll be more at ease around other people and be more willing to enter relationships. I’ll learn to highlight my assets and reduce the significance I assign to my flaws. And finally, I’ll stop holding back information
+about myself and share fully my memories, desires, thoughts, and feelings.
+
+To help heal my maybe defectiveness schema, the next book I’ll be covering for the podcast is the “ACT workbook for shame and depression” by Matthew McKay, Michael Jackson Greenberg, and Patrick Fanning. I seem to be on a kick of books by three authors. It just goes to show that I’m a real comedian since I apply the rule of three to everything in my life. 
+
+Also, I did my first brainspotting therapy session this week and the biggest insight I gained was my tendency to over-focus on the needs of others. It took me a while to relax into the session because I had this nagging feeling that the therapist was getting tired of holding the pointer up. So I asked her to put it down and I relaxed a bit. 
+
+Then as my eyes moved left and off the screen, fear came up. Again, it was about moving my attention away from the therapist’s needs. At first, this made me laugh as I realized how this behavior was so ingrained in me that it’s hard to shake. But then I cried a bit at the sadness of prioritizing the needs of others over my own. It helps me understand why social situations are so exhausting to me since I try to pay attention to everyone’s needs. It’s my way of feeling safe.
+
+This pattern of behavior also explains why I’m so wired for audience laughter and the approval of strangers. 
+
+So as you can tell, the format of the show is becoming more personal as I share my mental health journey. 
+
+I hope this was an act of love.
+Thank you for listening.</div>
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<div class="inner">
+							
+							<ul class="copyright">
+								<li>&copy; The Chris Ears Show. All rights reserved</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+							</ul>
+						</div>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
