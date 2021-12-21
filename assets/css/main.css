@@ -2355,19 +2355,20 @@ input, select, textarea {
 		.image.main {
 			display: block;
 			margin: 0 0 3em 0;
-			width: auto;
-      /* max-width: 100%; */
+			width: 100%;
+      max-width: 100%;
 		}
 
 			.image.main img {
-				width: auto;
-        /* max-width: 100%; */
+				width: 100%;
+        max-width: 100%;
 			}
 
 			@media screen and (max-width: 736px) {
 
 				.image.main {
-					margin: 0 0 2em 0;
+          margin: 0 0 2em 0;
+          max-width: 100%;
 				}
 
 			}
